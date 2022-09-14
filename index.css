@@ -1,0 +1,44 @@
+*{
+	font-family: Verdana;
+	font-size: 20px;
+}
+
+
+#external{
+	color: yellow;
+}
+
+h1{
+	font-size: 3em;
+}
+
+#h2Up{
+	text-transform: uppercase;
+}
+
+
+.greenText{
+	background-color: #aed19d;
+}
+
+li[onshow]{
+	border: 1px solid rgb(157, 176, 209);
+}
+
+img + ul{
+	list-style-type: none;
+}
+
+section img{
+	border-radius: 50px;
+	width: 100px;
+	height: 100px;
+}
+
+ul > li{
+	letter-spacing: 10px;
+}
+
+h4 ~ p{
+	text-align: center;
+}
